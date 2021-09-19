@@ -9,12 +9,14 @@
         print $a+$b;
         echo "<BR>";
         echo '$a - $b = ';
+        print $a-$b;
         echo "<BR>"
         echo '$a * $b = ';
         print $a*$b;
         echo "<BR>";
         echo '$a / $b = ';
         print $a/$b;
+        echo "<BR>";
         echo '$a % $b = ';
         print '$a%$b = ';
         ?>
